@@ -16,6 +16,9 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 # What is ALU?
 Arithmetic Logic Unit (ALU) is a core component of a processor that performs arithmetic and logical operations on binary data. In VLSI (Very Large Scale Integration), ALUs are designed and implemented using digital circuits, often with Verilog HDL or similar hardware description languages. These designs are then fabricated as integrated circuits on silicon wafers. 
+
+<img width="825" height="417" alt="Image" src="https://github.com/user-attachments/assets/e22909c3-2d6e-4154-81f5-897099aa3643" />
+
 # Key aspects of VLSI ALU design:
 Arithmetic Operations:
 ALUs handle fundamental arithmetic operations like addition, subtraction, multiplication, and division. These operations are typically implemented using circuits like adders, subtractors, and multipliers. 
@@ -36,3 +39,7 @@ In some advanced designs, reversible logic gates are used to minimize power cons
 # Example:
 A 32-bit ALU might be constructed by combining multiple 4-bit ALU slices. Each slice would contain modules for addition, subtraction, logical operations, and multiplexers to select the desired operation. 
 In summary, VLSI design of ALUs involves a combination of circuit design, hardware description languages, simulation, and optimization techniques to create efficient and functional arithmetic and logical units for processors. 
+
+# OUTPUT :-
+
+<img width="280" height="51" alt="Image" src="https://github.com/user-attachments/assets/573d2c3c-0883-431d-ac19-8a6789d8be5e" />
