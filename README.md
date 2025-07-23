@@ -11,6 +11,10 @@ DOMAIN: VLSI
 DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTHOSH KUMAR
+
+# DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE TO DO DONE AND PAST PICTURES OF OUTPUT
+
+# What is ALU?
 Arithmetic Logic Unit (ALU) is a core component of a processor that performs arithmetic and logical operations on binary data. In VLSI (Very Large Scale Integration), ALUs are designed and implemented using digital circuits, often with Verilog HDL or similar hardware description languages. These designs are then fabricated as integrated circuits on silicon wafers. 
 # Key aspects of VLSI ALU design:
 Arithmetic Operations:
